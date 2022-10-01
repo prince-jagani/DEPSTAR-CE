@@ -1,4 +1,4 @@
-> ***#All the flowchart images will be provided to the external cloud due to git repository space optimization.***
+#> ***All the flowchart images will be provided to the external cloud due to git repository space optimization.***
 
 <== [FIBONACCI SERIES DEVIDED BY FACTORIALS](https://mega.nz/file/nhJh2BxK#J00iurtbtTHdkCjq6zPqLYz-1LUlgAj3IiXtFiT9-rM) ==>
 
