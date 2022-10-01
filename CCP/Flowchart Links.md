@@ -4,6 +4,6 @@
 
 
 
-<== [FIBONACCI SERIES DEVIDED BY FACTORIALS](https://mega.nz/file/nhJh2BxK#J00iurtbtTHdkCjq6zPqLYz-1LUlgAj3IiXtFiT9-rM) ==>
+######[FIBONACCI SERIES DEVIDED BY FACTORIALS](https://mega.nz/file/nhJh2BxK#J00iurtbtTHdkCjq6zPqLYz-1LUlgAj3IiXtFiT9-rM)
 
-<== [NOTES COUNT OF CURRENCY FOR GIVEN AMOUNT](https://mega.nz/file/n0oDAS5b#AZXXOu3yrJPX-trxaLRqzE_4r2JzUuSp2HQ1NE5-YKg) ==>
+######[NOTES COUNT OF CURRENCY FOR GIVEN AMOUNT](https://mega.nz/file/n0oDAS5b#AZXXOu3yrJPX-trxaLRqzE_4r2JzUuSp2HQ1NE5-YKg)
