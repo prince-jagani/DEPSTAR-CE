@@ -6,8 +6,7 @@ void main()
 
     int sscYY,hscYY;
     float ssc,hsc;
-    long mobile=0;
-    char name[100],add[100],sscSch[100],hscSch[100];
+    char name[100],add[100],sscSch[100],hscSch[100],mobile[100];
     char tech,hobby,gender;
     int d,m,y;
 
@@ -18,7 +17,8 @@ void main()
     printf("Enter address: ");
     gets(add);
     printf("Enter mobile no.: ");
-    scanf("%ld",&mobile);
+    fflush(stdin);
+    gets(mobile);
     printf("Enter gender: ");
     scanf("%s",gender);
     printf("Enter Date of Birth[DD/MM/YYYY]: ");
@@ -52,7 +52,7 @@ void main()
     printf("\n\t\t-----------------");
     printf("\nName \t\t: %s",name);
     printf("\nAddress \t: %s",add);
-    printf("\nMobile No. \t: %ld",mobile);
+    printf("\nMobile No. \t: %s",mobile);
     printf("\nGender \t\t: %s",gender);
     printf("\nDate of Birth \t: %d/%d/%d\n",d,m,y);
 
