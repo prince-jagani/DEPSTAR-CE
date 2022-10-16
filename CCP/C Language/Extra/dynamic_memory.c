@@ -11,7 +11,7 @@ void main()
     ptr[2]=3;
     ptr[3]=4;
     ptr[5]=5;
-    //ama insilize no karelu hoi to garbased value print thai
+    //ama initilize no karelu hoi to garbage value print thai
     for(int i=0;i<=5;i++)
     {
         printf("%d\n",ptr[i]);
