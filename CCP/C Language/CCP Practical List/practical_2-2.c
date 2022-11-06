@@ -4,7 +4,6 @@ void main()
 {
 	int a=10, b=50, c=100, t, nc, nb, na;
 	clrscr();
-	printf(“\t\t\t  22TDCS100\n”);
 	printf("Enter total amount : ");
 	scanf("%d",&t);
 	nc=t/c;
