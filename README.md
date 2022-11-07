@@ -12,4 +12,4 @@ Portal where you can get all the codes through out study for DEPSTAR CE...
 >Get all flowcharts external links [Here](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/CCP/Flowchart%20Links.md)
 
 ### Assignments
->Assignment "Just for reference" [HERE](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/Assignment.md)
+>Assignments "Just for reference" [Here](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/Assignment.md)
