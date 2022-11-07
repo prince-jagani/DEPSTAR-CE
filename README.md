@@ -1,4 +1,4 @@
-# **DEPSTAR-CE**
+# [**DEPSTAR-CE**](https://github.com/prince-jagani/DEPSTAR-CE/wiki)
 Portal where you can get all the codes through out study for DEPSTAR CE...
 
 
