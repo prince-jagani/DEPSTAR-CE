@@ -9,7 +9,7 @@ void main()
 
 	printf("\n\t  Multiplication Table (1 to 7)\n\n");
 
-       //	for(i=1;i<53;i++) printf("%c", 4);
+      /*	for(i=1;i<53;i++) printf("%c", 4);	*/
 
        while(i<53)
        {
