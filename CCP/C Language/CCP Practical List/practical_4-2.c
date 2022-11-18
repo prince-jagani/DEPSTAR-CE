@@ -2,7 +2,6 @@
 void main()
 {
     int i = 1, n = 1;
-    printf("ID:22DCE028\n\n");
     printf("multification table\n");
     do
     {
