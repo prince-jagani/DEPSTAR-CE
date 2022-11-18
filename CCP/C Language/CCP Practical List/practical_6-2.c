@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 void main()
 {
     int a, b, i = 1, m = 1;
