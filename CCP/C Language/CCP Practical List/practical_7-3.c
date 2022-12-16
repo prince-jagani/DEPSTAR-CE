@@ -1,10 +1,10 @@
-// multification two 3*3 matrix
+// multiliication two 3*3 matrix
 
 #include <stdio.h>
 void main()
 {
     int a[3][3], b[3][3], c[3][3], sum = 0;
-    printf("Enter elements of first matrix:\n");
+    printf("Enter elements of First matrix:\n");
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -13,7 +13,7 @@ void main()
         }
     }
 
-    printf("\nEnter elements of second matrix:\n");
+    printf("\nEnter elements of Second matrix:\n");
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -21,7 +21,7 @@ void main()
             scanf("%d", &b[i][j]);
         }
     }
-    printf("first matrix:\n");
+    printf("First matrix:\n");
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -31,7 +31,7 @@ void main()
         printf("\n");
     }
 
-    printf("\nsecond matrix:\n");
+    printf("\nSecond matrix:\n");
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
@@ -53,7 +53,7 @@ void main()
             c[i][j] = sum;
         }
     }
-    printf("multificaion of a and b matrix:\n");
+    printf("Multiplication of a and b matrix:\n");
     for (int i = 0; i < 3; i++)
     {
         for (int j = 0; j < 3; j++)
