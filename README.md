@@ -1,5 +1,5 @@
 # [**DEPSTAR-CE**](https://github.com/prince-jagani/DEPSTAR-CE/wiki)
-###### v.0.1 (SEM-1)
+###### Till SEM 2
 Portal where you can get all the codes through out study for DEPSTAR CE...
 
 
