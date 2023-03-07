@@ -11,7 +11,7 @@ Portal where you can get all the codes through out study for DEPSTAR CE...
 
 ### Codes for C++ (SEM 2)
 >Find C++ program code [Here](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/CCP/C%20Language)
-- CCP Practical List [Here](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/OOPC)
+- OOPC Practical List [Here](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/OOPC)
 
 ### Flowcharts
 >Get all flowcharts external links [Here](https://github.com/prince-jagani/DEPSTAR-CE/tree/main/CCP/Flowchart%20Links.md)
