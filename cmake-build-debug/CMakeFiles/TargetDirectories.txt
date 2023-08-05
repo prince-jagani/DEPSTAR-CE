@@ -1,0 +1,3 @@
+C:/Users/Prince Jagani/OneDrive/Documents/GitHub/DEPSTAR-CE/cmake-build-debug/CMakeFiles/DEPSTAR_CE.dir
+C:/Users/Prince Jagani/OneDrive/Documents/GitHub/DEPSTAR-CE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Prince Jagani/OneDrive/Documents/GitHub/DEPSTAR-CE/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+# ninja log v5
+23	211	6912354737546017	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_1-2_simple.c.obj	67846138eab74e4d
+83	225	6912354737566014	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_2-3.c.obj	308dd19dc3912099
+9	236	6912354737612337	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_1-2.c.obj	88e7e1aa575ce64a
+91	246	6912354737663260	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_2-2.c.obj	ac91b8fee0823771
+1	256	6912354737713280	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_1-1.c.obj	653052a6fc75bc9
+100	266	6912354737759335	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_5-1.c.obj	f9e73be2a6e1fd89
+109	276	6912354737781499	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_4-1-b.c.obj	43fe0f006505a908
+16	287	6912354737821238	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_2-1.c.obj	3a316c232421f89d
+118	296	6912354737947683	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_3-1.c.obj	68020fb414f34f6e
+127	305	6912354737997892	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_3-2-b.c.obj	b2a545bed1988cf2
+137	312	6912354738421847	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_3-2.c.obj	4e43cd8920639e
+146	321	6912354738401334	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_4-3.c.obj	7ecb290e6252a284
+256	369	6912354739136772	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_6-1.c.obj	bc6bd7a4ec62deee
+267	371	6912354739162228	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_6-2.c.obj	27929ff5fa269e11
+214	378	6912354739235151	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_4-2.c.obj	a7fb73e3981a6e41
+236	382	6912354739274926	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_5-3.c.obj	1f5d8b2542cf4fb3
+247	387	6912354739326294	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/CCP_Practical_List/practical_5-4.c.obj	dd48df3c2de3ca0a
+287	401	6912354739446983	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/Extra/conversation.c.obj	a38f4d8b0552a568
+277	405	6912354739482562	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/Extra/box_patten.c.obj	ab34891bbd9a2b8c
+296	409	6912354739522683	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/Extra/binary_to_decimal.c.obj	5e10315d56180d56
+305	422	6912354739688250	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/Extra/border_num_tringle.c.obj	6bfc4d5a9a613755
+313	430	6912354739758379	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/Extra/factorial_with_recursion.c.obj	8a586f1583e1e067
+321	448	6912354739944308	CMakeFiles/DEPSTAR_CE.dir/CCP/C_Language/Extra/dynamic_memory.c.obj	2204be3533e0f89e
